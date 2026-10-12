@@ -14,4 +14,4 @@ Joon : Noodle
 
 ## Favorite Activites
 Plam : play snooker
-Joon : play drawing
+Joon : drawing
