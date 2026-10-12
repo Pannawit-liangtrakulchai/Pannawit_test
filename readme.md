@@ -11,3 +11,7 @@ We just met for the first time
 ## Favorite Food 
 Palm : Steak
 Joon : Noodle
+
+## Favorite Activites
+Plam : play snooker
+Joon : play drawing
